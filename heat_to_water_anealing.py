@@ -19,8 +19,8 @@ from mpl_toolkits.axes_grid1 import make_axes_locatable
 import pandas as pd
 from scipy.io import savemat
 
-np.random.seed(1234)
-tf.set_random_seed(1234)
+# np.random.seed(1234)
+# tf.set_random_seed(1234)
 
 class PhysicsInformedNN:
     # Initialize the class
